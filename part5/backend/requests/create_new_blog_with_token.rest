@@ -1,0 +1,11 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjYzZjY5MDJjZTlkNjQ4NzVmMDkyMTRlMSIsImlhdCI6MTY3NzExMjgwOH0.L8cnJCBB56qsy7dVevYsxlGo8ODceDm1QOOQqkJ465Q
+
+{
+  "title": "testone",
+  "author": "testauthor",
+  "url": "http://someurl111",
+  "likes": 10
+}
+
