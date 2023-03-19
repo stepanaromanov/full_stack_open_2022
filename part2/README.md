@@ -8,4 +8,4 @@ Let's continue our introduction to React. First, we will take a look at how to r
 - Forms
 - Getting data from server
 - Altering data in server
-- Adding style to React apps
+- Adding styles to React apps

@@ -24,7 +24,7 @@ Let's continue our introduction to React. First, we will take a look at how to r
 - Forms
 - Getting data from server
 - Altering data in server
-- Adding style to React apps
+- Adding styles to React apps
 
 ### [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
 
@@ -55,7 +55,7 @@ In this part we return to the frontend, first looking at different possibilities
 - End to end testing
 
 
-### [Part 6 - State management with Redux](https://fullstackopen.com/en/part6)
+### [Part 6 - Advanced state management](https://fullstackopen.com/en/part6)
 
 So far, we have placed the application's state and state logic directly inside React components. When applications grow larger, state management should be moved outside React components. In this part, we will introduce the Redux library, which is currently the most popular solution for managing the state of React applications. We'll learn about the lightweight version of Redux directly supported by React, namely the React context and useRedux hook, as well as the React Query library that simplifies the server state management.
 
